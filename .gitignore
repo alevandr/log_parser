@@ -1,0 +1,9 @@
+# Python test and cache artifacts
+.pytest_cache/
+__pycache__/
+
+# Virtual environment
+.venv/
+
+# Coverage artifacts
+.coverage
